@@ -1,0 +1,5 @@
+__pycache__/
+tensorflow_env/
+*.pyc
+logs/
+epoch_models/
