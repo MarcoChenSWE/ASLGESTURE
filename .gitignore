@@ -3,3 +3,4 @@ tensorflow_env/
 *.pyc
 logs/
 epoch_models/
+model/SubsetTrainData/
